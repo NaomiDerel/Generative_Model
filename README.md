@@ -6,12 +6,12 @@ Implementation of GAN model with torch for 'Machine Learning 2' course, on the M
 
 - Model architecture
 - Training
-- Disscussion
+- Discussion
     - Architecture
     - Visualization of the latent space
     - Convergence plots
     - Generated samples 
-- Code for recreating our results
+- [Code for recreating our results](GAN_model.ipynb#Code for results reproduction)
 
 ## Results Demonstration:
 
