@@ -11,7 +11,7 @@ Implementation of GAN model with torch for 'Machine Learning 2' course, on the M
     - Visualization of the latent space
     - Convergence plots
     - Generated samples 
-- [Code for recreating our results](GAN_model.ipynb#Code for results reproduction)
+- [Code for recreating our results](GAN_model.ipynb#Code-for-results-reproduction)
 
 ## Results Demonstration:
 
